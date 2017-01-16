@@ -20,5 +20,6 @@
 module.exports = {
   Config: require('./lib/config'),
   GrantManager: require('./lib/grant-manager'),
-  Grant: require('./lib/grant')
+  Grant: require('./lib/grant'),
+  Token: require('./lib/token')
 };
